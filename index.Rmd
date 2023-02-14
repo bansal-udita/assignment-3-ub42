@@ -1,0 +1,23 @@
+---
+title: "Collaborative website"
+author: "Udita Bansal"
+date: "2023-02-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Udita and Kathy's Github website
+
+Udita Bansal https://github.com/bansal-udita 
+
+Kathy Stenehjem https://github.com/kstenehjem 
+
+<br>
+
+![Office mates & assignment mates](WhatsApp Image 2023-02-14 at 11.37.03 AM.jpeg)
+
+
+
