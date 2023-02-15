@@ -1,0 +1,11 @@
+output_dir: "."
+name: "our-website"
+navbar:
+  title: "Our Collaborative Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "udita"
+      href: udita.html
+    - text: "kathy"
+      href: kathy.html
