@@ -1,7 +1,5 @@
 output_dir: "."
-name: "our-website"
 navbar:
-  title: "Our Collaborative Website"
   left:
     - text: "Home"
       href: index.html
